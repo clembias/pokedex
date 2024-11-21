@@ -87,4 +87,7 @@ body{
     background: #222;
   }
 
+  .pokemon-image{
+    width : 250px;
+  }
 /* right side */
